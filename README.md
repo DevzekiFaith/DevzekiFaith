@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevzekiFaith
 - 👀 I’m interested in Frontend language tools
-- 🌱 I’m currently learning more frontend languagae tools
+- 🌱 I’m currently learning more frontend language tools
 - 💞️ I’m looking to collaborate on Frontend engineering or development works
 - 📫 How to reach me zekipossible@gmail.com or whatsapp +2347014441418
 
